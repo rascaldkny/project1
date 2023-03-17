@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T08:40:56.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="jhCtjrjKa5-2BcCNIXRE" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-17T09:12:07.381Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qWjcc9GCoKna6612IE4n" version="21.0.6" type="github" pages="2">
   <diagram name="Page-1" id="c37626ed-c26b-45fb-9056-f9ebc6bb27b6">
     <mxGraphModel dx="1311" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -245,70 +245,65 @@
     </mxGraphModel>
   </diagram>
   <diagram id="D1Y14wnKGlvl8o6WSnGB" name="Page-2">
-    <mxGraphModel dx="2760" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
+    <mxGraphModel dx="3194" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xEglHaK1Gnq8JVJsy5sm-1" value="Ekosistem Agrinis" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=#f5f5f5;strokeColor=none;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="810" width="3310" height="1014" as="geometry" />
-        </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-27" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-3" target="xEglHaK1Gnq8JVJsy5sm-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xEglHaK1Gnq8JVJsy5sm-49" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=none;endFill=0;entryX=1;entryY=0.558;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-3" target="xEglHaK1Gnq8JVJsy5sm-48">
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-49" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-3" target="xEglHaK1Gnq8JVJsy5sm-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-3" value="" style="shape=mxgraph.cisco.misc.route_switch_processor;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="850" width="64" height="86" as="geometry" />
+          <mxGeometry x="1600" y="780" width="64" height="86" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-4" value="agrinisapi_communitydb (MySql)" style="shape=mxgraph.cisco.misc.me1100;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1620" width="91" height="48" as="geometry" />
+          <mxGeometry x="494" y="1570" width="91" height="48" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-5" value="internal (CI-3)" style="shape=mxgraph.cisco.storage.cisco_file_engine;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="1261" width="90" height="64" as="geometry" />
+          <mxGeometry x="-130" y="1261" width="90" height="64" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-6" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;exitX=0.96;exitY=0.87;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-5" target="xEglHaK1Gnq8JVJsy5sm-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="1660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xEglHaK1Gnq8JVJsy5sm-7" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-10" target="xEglHaK1Gnq8JVJsy5sm-5">
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-7" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-111" target="xEglHaK1Gnq8JVJsy5sm-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xEglHaK1Gnq8JVJsy5sm-38" value="internal.agrinis.com" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xEglHaK1Gnq8JVJsy5sm-7">
-          <mxGeometry x="0.5329" y="-3" relative="1" as="geometry">
-            <mxPoint x="-4" y="-25" as="offset" />
-          </mxGeometry>
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-113" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-10" target="xEglHaK1Gnq8JVJsy5sm-112">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xEglHaK1Gnq8JVJsy5sm-10" value="178.128.17.200" style="shape=mxgraph.cisco.misc.route_switch_processor;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1020" width="64" height="86" as="geometry" />
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-10" value="app.agrinis.com&lt;br&gt;178.128.17.200" style="shape=mxgraph.cisco.misc.route_switch_processor;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="333" y="1020" width="64" height="86" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-55" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.008;entryY=0.398;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-14" target="xEglHaK1Gnq8JVJsy5sm-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-14" value="website (CI-3)" style="shape=mxgraph.cisco.storage.cisco_file_engine;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1261" width="90" height="64" as="geometry" />
+          <mxGeometry x="177" y="1261" width="90" height="64" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-56" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-17" target="xEglHaK1Gnq8JVJsy5sm-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-17" value="website-new (HTML)" style="shape=mxgraph.cisco.storage.cisco_file_engine;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1261" width="90" height="64" as="geometry" />
+          <mxGeometry x="30" y="1261" width="90" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="xEglHaK1Gnq8JVJsy5sm-20" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;exitX=0.95;exitY=0.96;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-10" target="xEglHaK1Gnq8JVJsy5sm-14">
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-20" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.95;exitY=0.96;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-112" target="xEglHaK1Gnq8JVJsy5sm-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xEglHaK1Gnq8JVJsy5sm-40" value="agrinis.com/core" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xEglHaK1Gnq8JVJsy5sm-20">
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-40" value="/core" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xEglHaK1Gnq8JVJsy5sm-20">
           <mxGeometry x="0.318" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xEglHaK1Gnq8JVJsy5sm-23" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-10" target="xEglHaK1Gnq8JVJsy5sm-17">
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-23" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-112" target="xEglHaK1Gnq8JVJsy5sm-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xEglHaK1Gnq8JVJsy5sm-39" value="agrinis.com/index" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xEglHaK1Gnq8JVJsy5sm-23">
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-39" value="/index" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xEglHaK1Gnq8JVJsy5sm-23">
           <mxGeometry x="-0.2766" y="-5" relative="1" as="geometry">
-            <mxPoint x="10" y="37" as="offset" />
+            <mxPoint x="5" y="37" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-25" target="xEglHaK1Gnq8JVJsy5sm-28">
@@ -344,40 +339,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-25" value="programbroiler" style="shape=mxgraph.cisco.misc.route_switch_processor;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2204" y="1040" width="64" height="86" as="geometry" />
+          <mxGeometry x="2204" y="1020" width="64" height="86" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-28" value="holding" style="shape=mxgraph.cisco.storage.cisco_file_engine;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2451" y="1269" width="90" height="64" as="geometry" />
+          <mxGeometry x="2451" y="1261" width="90" height="64" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-30" value="erp" style="shape=mxgraph.cisco.storage.cisco_file_engine;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="1269" width="90" height="64" as="geometry" />
+          <mxGeometry x="2000" y="1261" width="90" height="64" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-31" value="analytic" style="shape=mxgraph.cisco.storage.cisco_file_engine;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2301" y="1269" width="90" height="64" as="geometry" />
+          <mxGeometry x="2301" y="1261" width="90" height="64" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-32" value="public-api" style="shape=mxgraph.cisco.storage.cisco_file_engine;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2161" y="1269" width="90" height="64" as="geometry" />
+          <mxGeometry x="2161" y="1261" width="90" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="xEglHaK1Gnq8JVJsy5sm-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.003;exitY=0.647;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-48" target="xEglHaK1Gnq8JVJsy5sm-51">
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-48" target="xEglHaK1Gnq8JVJsy5sm-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xEglHaK1Gnq8JVJsy5sm-57" value="api.agrinis.com/api/" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xEglHaK1Gnq8JVJsy5sm-52">
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-57" value="/api" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xEglHaK1Gnq8JVJsy5sm-52">
           <mxGeometry x="-0.1914" y="2" relative="1" as="geometry">
-            <mxPoint x="-28" y="20" as="offset" />
+            <mxPoint x="-22" y="49" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xEglHaK1Gnq8JVJsy5sm-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.003;exitY=0.865;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-48" target="xEglHaK1Gnq8JVJsy5sm-58">
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-10" target="xEglHaK1Gnq8JVJsy5sm-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xEglHaK1Gnq8JVJsy5sm-61" value="api.agrinis.com/analytic" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xEglHaK1Gnq8JVJsy5sm-59">
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-61" value="/analytics" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xEglHaK1Gnq8JVJsy5sm-59">
           <mxGeometry x="-0.2714" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-3" y="17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xEglHaK1Gnq8JVJsy5sm-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-48" target="xEglHaK1Gnq8JVJsy5sm-62">
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-48" target="xEglHaK1Gnq8JVJsy5sm-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xEglHaK1Gnq8JVJsy5sm-73" value="api.agrinis.com/agrinis_iot" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xEglHaK1Gnq8JVJsy5sm-63">
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-73" value="/agrinis_iot" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xEglHaK1Gnq8JVJsy5sm-63">
           <mxGeometry x="0.3649" y="-4" relative="1" as="geometry">
             <mxPoint x="6" y="6" as="offset" />
           </mxGeometry>
@@ -385,53 +380,46 @@
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-69" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-48" target="xEglHaK1Gnq8JVJsy5sm-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xEglHaK1Gnq8JVJsy5sm-75" value="api.agrinis.com/komunitas/forum" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xEglHaK1Gnq8JVJsy5sm-69">
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-75" value="/komunitas/forum" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xEglHaK1Gnq8JVJsy5sm-69">
           <mxGeometry x="-0.1709" relative="1" as="geometry">
-            <mxPoint x="38" y="23" as="offset" />
+            <mxPoint x="15" y="23" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xEglHaK1Gnq8JVJsy5sm-80" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.95;exitY=0.96;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-48" target="xEglHaK1Gnq8JVJsy5sm-72">
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-80" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-117" target="xEglHaK1Gnq8JVJsy5sm-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xEglHaK1Gnq8JVJsy5sm-89" value="pay.agrinis.com" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xEglHaK1Gnq8JVJsy5sm-80">
-          <mxGeometry x="0.7057" y="6" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xEglHaK1Gnq8JVJsy5sm-88" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.021;exitY=0.806;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.46;entryY=0.185;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-48" target="xEglHaK1Gnq8JVJsy5sm-87">
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-88" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.46;entryY=0.185;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-118" target="xEglHaK1Gnq8JVJsy5sm-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xEglHaK1Gnq8JVJsy5sm-90" value="api.agrinis.com/public/marketplace" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xEglHaK1Gnq8JVJsy5sm-88">
-          <mxGeometry x="-0.1133" y="4" relative="1" as="geometry">
-            <mxPoint x="20" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xEglHaK1Gnq8JVJsy5sm-104" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-48" target="xEglHaK1Gnq8JVJsy5sm-10">
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-110" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-123" target="xEglHaK1Gnq8JVJsy5sm-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xEglHaK1Gnq8JVJsy5sm-48" value="178.128.17.200" style="shape=mxgraph.cisco.misc.route_switch_processor;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="990" y="1010" width="64" height="86" as="geometry" />
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-133" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-48" target="xEglHaK1Gnq8JVJsy5sm-123">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xEglHaK1Gnq8JVJsy5sm-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=none;endFill=0;entryX=0.237;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-51" target="xEglHaK1Gnq8JVJsy5sm-4">
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-48" value="api.agrinis.com&lt;br&gt;178.128.17.200" style="shape=mxgraph.cisco.misc.route_switch_processor;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="793" y="1020" width="64" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-51" target="xEglHaK1Gnq8JVJsy5sm-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-51" value="api-farm-ppl (CI-3)" style="shape=mxgraph.cisco.storage.cisco_file_engine;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1252" width="90" height="64" as="geometry" />
+          <mxGeometry x="630" y="1261" width="90" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="xEglHaK1Gnq8JVJsy5sm-60" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-58" target="xEglHaK1Gnq8JVJsy5sm-4">
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-60" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;entryX=0.285;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-58" target="xEglHaK1Gnq8JVJsy5sm-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-58" value="api-analytics (Laravel)" style="shape=mxgraph.cisco.storage.cisco_file_engine;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="643" y="1252" width="90" height="64" as="geometry" />
+          <mxGeometry x="470" y="1261" width="90" height="64" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.793;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-62" target="xEglHaK1Gnq8JVJsy5sm-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-62" value="api-iot (CI-3)&lt;br&gt;Move Ke MongoDB" style="shape=mxgraph.cisco.storage.cisco_file_engine;html=1;dashed=0;fillColor=#FF0000;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="797" y="1252" width="90" height="64" as="geometry" />
+          <mxGeometry x="780" y="1261" width="90" height="64" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-65" value="agrinisapi_forumdb (MySql)" style="shape=mxgraph.cisco.misc.me1100;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="920" y="1570" width="91" height="48" as="geometry" />
+          <mxGeometry x="910" y="1570" width="91" height="48" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-68" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.734;entryY=-0.089;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-67" target="xEglHaK1Gnq8JVJsy5sm-65">
           <mxGeometry relative="1" as="geometry" />
@@ -440,7 +428,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-67" value="api-forum (Laravel)" style="shape=mxgraph.cisco.storage.cisco_file_engine;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="939" y="1252" width="90" height="64" as="geometry" />
+          <mxGeometry x="930" y="1261" width="90" height="64" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-77" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-72" target="xEglHaK1Gnq8JVJsy5sm-76">
           <mxGeometry relative="1" as="geometry" />
@@ -449,28 +437,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-72" value="api-payment (GOLang)" style="shape=mxgraph.cisco.storage.cisco_file_engine;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1079" y="1252" width="90" height="64" as="geometry" />
+          <mxGeometry x="1079" y="1261" width="90" height="64" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-76" value="agrinisapi_paymentdb (MySql)" style="shape=mxgraph.cisco.misc.me1100;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1079" y="1612" width="91" height="48" as="geometry" />
+          <mxGeometry x="1079" y="1550" width="91" height="48" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-85" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-81" target="xEglHaK1Gnq8JVJsy5sm-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-81" value="api-iot (Golang)" style="shape=mxgraph.cisco.storage.cisco_file_engine;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="1252" width="90" height="64" as="geometry" />
+          <mxGeometry x="1690" y="1261" width="90" height="64" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-82" value="iot (MongoDB)" style="shape=mxgraph.cisco.misc.me1100;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="1590" width="91" height="48" as="geometry" />
+          <mxGeometry x="1690" y="1590" width="91" height="48" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-84" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-83" target="xEglHaK1Gnq8JVJsy5sm-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-83" value="159.223.69.43" style="shape=mxgraph.cisco.misc.route_switch_processor;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1423" y="1010" width="64" height="86" as="geometry" />
+          <mxGeometry x="1706" y="1020" width="64" height="86" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-86" value="iot (Redis)" style="shape=mxgraph.cisco.misc.me1100;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1561" y="1590" width="91" height="48" as="geometry" />
+          <mxGeometry x="1841" y="1590" width="91" height="48" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-94" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-87" target="xEglHaK1Gnq8JVJsy5sm-91">
           <mxGeometry relative="1" as="geometry" />
@@ -479,16 +467,55 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-87" value="api-shop (Laravel)" style="shape=mxgraph.cisco.storage.cisco_file_engine;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="1252" width="90" height="64" as="geometry" />
+          <mxGeometry x="1270" y="1261" width="90" height="64" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-91" value="agrinis_storedb (MySql)" style="shape=mxgraph.cisco.misc.me1100;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="1564" width="91" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="xEglHaK1Gnq8JVJsy5sm-101" value="analytics" style="shape=mxgraph.cisco.misc.route_switch_processor;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="1010" width="64" height="86" as="geometry" />
+          <mxGeometry x="1270" y="1564" width="91" height="48" as="geometry" />
         </mxCell>
         <mxCell id="xEglHaK1Gnq8JVJsy5sm-103" value="blog (docker)" style="shape=mxgraph.cisco.storage.cisco_file_engine;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1540" y="1252" width="90" height="64" as="geometry" />
+          <mxGeometry x="1842" y="1261" width="90" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-108" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-107" target="xEglHaK1Gnq8JVJsy5sm-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-107" value="analytics (React JS)" style="shape=mxgraph.cisco.storage.cisco_file_engine;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1261" width="90" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-111" value="internal.agrinis.com&lt;br&gt;178.128.17.200" style="shape=mxgraph.cisco.misc.route_switch_processor;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-117" y="1020" width="64" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-114" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-112" target="xEglHaK1Gnq8JVJsy5sm-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-112" value="agrinis.com&lt;br&gt;178.128.17.200" style="shape=mxgraph.cisco.misc.route_switch_processor;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="43" y="1020" width="64" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-120" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-117" target="xEglHaK1Gnq8JVJsy5sm-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-117" value="pay.agrinis.com&lt;br&gt;178.128.17.200" style="shape=mxgraph.cisco.misc.route_switch_processor;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1020" width="64" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-119" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-118" target="xEglHaK1Gnq8JVJsy5sm-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-118" value="api.agrinis.com/public/marketplace&lt;br&gt;178.128.17.200" style="shape=mxgraph.cisco.misc.route_switch_processor;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1020" width="64" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-134" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="xEglHaK1Gnq8JVJsy5sm-123" target="xEglHaK1Gnq8JVJsy5sm-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-123" value="api.agrinis.com/analytic&lt;br&gt;178.128.17.200" style="shape=mxgraph.cisco.misc.route_switch_processor;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="483" y="1020" width="64" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-126" value="Farm (Android)" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="690" width="34.36" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-128" value="PPL (Android)" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="420.26" y="690" width="34.36" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="xEglHaK1Gnq8JVJsy5sm-132" value="agrinis" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="140" y="710" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
