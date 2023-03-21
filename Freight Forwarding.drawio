@@ -1,1 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T09:49:42.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.0.8" etag="Xh5XWfaBYqUD5NnJYm4I" type="github"><diagram name="Page-1" id="Z4kxiTsmlOO3OzYXycCz">zZhLc9owEMc/Dccwej+ODUkzPXSm03Ta5ugYxWgwlivLPL5919hOADmdDIWBA4y1khbt/7crS4zoZLF+8Ek5++qmJh/R+xGdeOdC+7RYT0yejwiy0xG9GxGC4DMin9/pxdteVCbeFOEjE0g7YZnktWktjyHxobVWYZN31tXMBvNYJmnTXsFyR/S2Ct7NzS87DTMwErB0zowPZv3ugrambjUPxi1M8BsY0k1QvJ2x6txCi3dOZsZms84JZa0tqdp29uroLVh46OIdjp1GsX83qbFL04Q+s+WiWTJBUxMSm1eXkwR3C910CrFIIazZeSRikUQTV7xYvwDjs3NzW2Tw5M2f2lQXTBrM9hTCSg5IRM4jEY8k+lJVdZ9DZauQLSDuOg3WFRdMJL2nEtEoUomgM6kkIpW+2XRel2BLE5+5xn1TbM7bzBaXk6jH2WlE9UCxyTPtRzIuttwkvpGoroJbVL1IUyg2WyRNNl1AqU4apuMi6982J5dGRdLcF9MLFhLayxKB4kpiZ0oSHSkRyZDWfmma4XgbP7zOP3nvVmAoXAFjbk0x7S3PuUvnjWltw29oozHTjHHOCeNYU6lw1/nU+BsjRISkUgjYTolQW18QQDuTI4yxlhwTjbEUsu992vbuT5W6yfcehplm5t8oIEBX+9TsnVogtMz02g4D8yaHOlnuex/SfzsVVEk2OwNKZ4tQRXhe/X+IGEYRsp/G25fNx44Z/0dziMkOTU6Z5JRQxTjlAzgpZphTITER/BCnQgS8Ki6FQsBVHU2TxjTZ9dLE8S7tTRLM7ono5AgPObwhxEhojgSTQiOJY4RIcoaYBNJKigOEmFKhFEVawBN8saMRshghv16E8aWn+Z0i2z/4nxpiRGIHokCMcC0bxugNU78hK8pEU6KIS6nZXiHeoC4FGNCE9xASStOjMfIYo7hejPH97QdQrErX3F/7Y+WJ340DKDqMaKw17LSKCqYo6IYPSxFpJRmWkAJCskOG251YATxIEokRO343FTFDeb0M4wvmnclhTX7nYhCarxRuTjYrjDl5YUZcdoBKSjgwIRgOLEIf1iXFiEIaMtiUGT2oSzqmgmukKYc7FUFcm5vjzzsyZqquhSk03/6uaofv/pv1Fw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-21T11:24:21.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="7ytXeKhCUbsRpLN73EXx" version="21.0.8" type="github">
+  <diagram name="Page-1" id="Z4kxiTsmlOO3OzYXycCz">
+    <mxGraphModel dx="2138" dy="1350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4nEQbHQ5a4SzHWHCSInG-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2" target="4nEQbHQ5a4SzHWHCSInG-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2" value="Start" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="85" y="-110" width="51" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Barang Sampai Pelabuhan" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="13" y="84" width="194" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Pembuatan Bon Muat" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="14" y="187" width="192" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Pembuatan Surat Jalan" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="9" y="290" width="202" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Pengiriman" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry y="399" width="220" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="End" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="90" y="502" width="41" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5011197512911767;entryY=0.0026737661922679227;exitDx=0;exitDy=0;" parent="1" source="4nEQbHQ5a4SzHWHCSInG-14" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4nEQbHQ5a4SzHWHCSInG-17" value="Pembuatan Project" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9">
+          <mxGeometry x="0.4343" relative="1" as="geometry">
+            <mxPoint y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="Verifikasi Barang" style="curved=1;startArrow=none;endArrow=block;exitX=0.5011197512911767;exitY=1.0053475323845358;entryX=0.5011314153671265;entryY=0.008021298576803768;" parent="1" source="3" target="4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="Loading Barang" style="curved=1;startArrow=none;endArrow=block;exitX=0.5011314153671265;exitY=1.0106950647690718;entryX=0.5010754047053876;entryY=0.013368830961339614;" parent="1" source="4" target="5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="Transport cargo" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.500987417047674;entryY=-0.005347868975471048;exitDx=0;exitDy=0;" parent="1" source="5" target="7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="110.21262125560315" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="Verifikasi Barang Sampai" style="curved=1;startArrow=none;endArrow=block;exitX=0.500987417047674;exitY=0.9973258972167969;entryX=0.49310321342654345;entryY=-3.365909352022059e-7;" parent="1" source="7" target="8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4nEQbHQ5a4SzHWHCSInG-14" value="Job Order" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="13" y="-10" width="194" height="34" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
