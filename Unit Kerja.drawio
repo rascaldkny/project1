@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T08:00:54.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Rvdcfga1RpqhjZlpfwVr" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-12T08:01:19.892Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="yUIJCcdA-xvXSXU099lW" version="24.6.5" type="github">
   <diagram name="Page-1" id="TQ9HY4PnEg4uLvpcVF5u">
     <mxGraphModel dx="3106" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="-223.5" y="210" width="83" height="34" as="geometry" />
         </mxCell>
         <mxCell id="8" value="Produk Development and Quality" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="897" y="220" width="191" height="34" as="geometry" />
+          <mxGeometry x="897" y="220" width="193" height="34" as="geometry" />
         </mxCell>
         <mxCell id="GqXsa1gU82VVR8HPa7Rg-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7" target="GqXsa1gU82VVR8HPa7Rg-40">
           <mxGeometry relative="1" as="geometry" />
