@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T08:08:28.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="QYur_KoJ9VcIEiIXnL8N" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-12T08:15:56.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="tuRL0Ohdcn07YyBgJXXt" version="24.6.5" type="github">
   <diagram name="Page-1" id="TQ9HY4PnEg4uLvpcVF5u">
-    <mxGraphModel dx="3106" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
+    <mxGraphModel dx="2494" dy="1565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
         <mxCell id="GqXsa1gU82VVR8HPa7Rg-26" value="Services" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="217" y="220" width="83" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="GqXsa1gU82VVR8HPa7Rg-27" value="Backend Developer&#xa;Reza" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GqXsa1gU82VVR8HPa7Rg-27" value="Backend Developer&#xa;Reza Chrismardianto" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="177" y="354" width="162" height="46" as="geometry" />
         </mxCell>
         <mxCell id="GqXsa1gU82VVR8HPa7Rg-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.5;entryY=0.01;exitDx=0;exitDy=0;" edge="1" target="GqXsa1gU82VVR8HPa7Rg-26" parent="1" source="GqXsa1gU82VVR8HPa7Rg-25">
@@ -76,7 +76,7 @@
         <mxCell id="GqXsa1gU82VVR8HPa7Rg-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GqXsa1gU82VVR8HPa7Rg-31" target="GqXsa1gU82VVR8HPa7Rg-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GqXsa1gU82VVR8HPa7Rg-31" value="Client Relation&#xa;Widya" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GqXsa1gU82VVR8HPa7Rg-31" value="Client Relation&#xa;Widya Agustina" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="657" y="350" width="162" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GqXsa1gU82VVR8HPa7Rg-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;" edge="1" source="GqXsa1gU82VVR8HPa7Rg-30" target="GqXsa1gU82VVR8HPa7Rg-31" parent="1">
@@ -96,7 +96,7 @@
         <mxCell id="GqXsa1gU82VVR8HPa7Rg-35" value="UI-UX" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="503" y="220" width="83" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="GqXsa1gU82VVR8HPa7Rg-36" value="Design&#xa;Miga" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GqXsa1gU82VVR8HPa7Rg-36" value="Design&#xa;Miga Palma Putri" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="462.75" y="446" width="162" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GqXsa1gU82VVR8HPa7Rg-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="GqXsa1gU82VVR8HPa7Rg-35" target="GqXsa1gU82VVR8HPa7Rg-36">
@@ -111,25 +111,25 @@
             <mxPoint x="547" y="202" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GqXsa1gU82VVR8HPa7Rg-39" value="Project Kordinator&#xa;Dewi (Magang)" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GqXsa1gU82VVR8HPa7Rg-39" value="Project Kordinator&#xa;Dewi Apriyani (Magang)" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1007" y="446" width="162" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GqXsa1gU82VVR8HPa7Rg-40" value="Backend Developer&#xa;Fadli" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GqXsa1gU82VVR8HPa7Rg-40" value="Backend Developer&#xa;Fadhli Yulyanto" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-263" y="450" width="162" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GqXsa1gU82VVR8HPa7Rg-41" value="Web Developer&#xa;Ardi" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GqXsa1gU82VVR8HPa7Rg-41" value="Web Developer&#xa;Ardi Suryana" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-433" y="450" width="162" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GqXsa1gU82VVR8HPa7Rg-50" value="Frontend Developer&#xa;Ichsan" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GqXsa1gU82VVR8HPa7Rg-50" value="Frontend Developer&#xa;M. Ichsan Maulana" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="97" y="446" width="162" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="GqXsa1gU82VVR8HPa7Rg-52" value="Mobile Developer&#xa;Randitya (Magang)" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GqXsa1gU82VVR8HPa7Rg-52" value="Mobile Developer&#xa;Randytia Akbar (Magang)" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="267" y="446" width="162" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GqXsa1gU82VVR8HPa7Rg-54" value="Client Relation&#xa;Ibnu" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GqXsa1gU82VVR8HPa7Rg-54" value="Client Relation&#xa;Ibnu Yusuf" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="657" y="447" width="162" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GqXsa1gU82VVR8HPa7Rg-56" value="QA&#xa;Resta" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GqXsa1gU82VVR8HPa7Rg-56" value="QA&#xa;Ariesta Mardiana" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="831.5" y="446" width="162" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GqXsa1gU82VVR8HPa7Rg-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8" target="GqXsa1gU82VVR8HPa7Rg-56">
